@@ -1,3 +1,7 @@
+## Author
+- afrazkhan1407
+
+
 # Final-Project
 This is the last Project of Getting Started with Git and Github Course on Coursera
 
